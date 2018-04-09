@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="${pageContext.request.contextPath}/css/bootstrap.min.css" type="text/css">
 
 <style>  
-body{  
+body{ 
 margin-left:auto;  
 margin-right:auto; 
 margin-TOP:100PX; 

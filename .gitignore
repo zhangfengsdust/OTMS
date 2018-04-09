@@ -1,2 +1,12 @@
 /build/
+
+/.git/
+/.settings/
+
+/.classpath/
+
+/.project/
+
+*.iml
+
 *.class
